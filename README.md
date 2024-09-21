@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1246337883623784468/1286415376753623142/Silent.png?ex=66ee7bee&is=66ed2a6e&hm=0b5e0dab23e6d6b14227bdc7e8627a62762a49a0405a8fc6bbc6572e9315b41c&" width="328"></img>
+<img src="https://cdn.discordapp.com/attachments/1246337883623784468/1286938157505581126/erer.png?ex=66efba0e&is=66ee688e&hm=198f593efbff7aad75540b2993e16bf1829bd571dc6595667bbeda924168f887&" width="328"></img>
   </kbd>
 </p>
 
