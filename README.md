@@ -1,6 +1,7 @@
 <a id="top"></a>
 <h1 align="center">
-⚔️ NEW UPDATE NEW FEATURES AT 300 STARS ⭐
+  
+⚔️ I WILL PUBLISH THE NEW VERSION SOON ⭐
 </h1>
 
 <p align="center"> 
