@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1246337883623784468/1286938157505581126/erer.png?ex=66efba0e&is=66ee688e&hm=198f593efbff7aad75540b2993e16bf1829bd571dc6595667bbeda924168f887&" width="328"></img>
+<img src="https://cdn.discordapp.com/attachments/1246337883623784468/1286938157505581126/erer.png?ex=67797ece&is=67782d4e&hm=3fa903e5aaef23f3e374c7d0400bc30b224798467ccb88df81d4f57a84eaf890&" width="328"></img>
   </kbd>
 </p>
 
@@ -32,7 +32,7 @@
 
 ### 📁  〢 Setting Up
 >
-> [![Watch the video](https://cdn.discordapp.com/attachments/1249115098157547551/1286956692206256148/ffffffffffffffffffffffffffffff.jpg?ex=67078651&is=670634d1&hm=e53a49bd14ef261d95856d6a6fd8f122c326b1f9792cc34aa1fdf3e537a6875e&)](https://streamable.com/53z71b)
+> [![Watch the video](https://cdn.discordapp.com/attachments/1249115098157547551/1286956692206256148/ffffffffffffffffffffffffffffff.jpg?ex=6778e751&is=677795d1&hm=ce0b33cd63298a8521ecfa14451207a0ce09e1a3f21c8363fd92673d077fa5f3&)](https://streamable.com/53z71b)
 >
 >
 > Install [Node.js](https://nodejs.org/en/download/prebuilt-installer/current) `IMPORTANT: Install NodeJS with Tools for Native Modules`
@@ -139,9 +139,9 @@
 ---
 
 ### 📸 〢 Screenshots
-<img title="" src="https://cdn.discordapp.com/attachments/1246337883623784468/1286705400032268349/menu.PNG?ex=66eee149&is=66ed8fc9&hm=01152ba75a981cf9060a82f411fd869259fe5d57acf8443129906767eb34d948&" alt="" width="820">
-<img title="" src="https://cdn.discordapp.com/attachments/1246337883623784468/1286705400380657786/fud.PNG?ex=66eee149&is=66ed8fc9&hm=67d7fbd878cf007805815f324997cfce538126fcf1560239923b3c1046ccce74&" alt="" width="820">
-<img title="" src="https://cdn.discordapp.com/attachments/1246337883623784468/1286705568374984734/a.png?ex=66eee171&is=66ed8ff1&hm=a6b206358446730ebae79a52e43f2028e31fd6d8597bc41e2ebea211950376cb&" alt="" width="820">
+<img title="" src="https://cdn.discordapp.com/attachments/1246337883623784468/1286705400032268349/menu.PNG?ex=67794ec9&is=6777fd49&hm=f5976d9ee9650c714e1f6121c47012879b8f48375b4a1b7708452d8cd250e9fd&" alt="" width="820">
+<img title="" src="https://cdn.discordapp.com/attachments/1246337883623784468/1286705400380657786/fud.PNG?ex=67794ec9&is=6777fd49&hm=f416264439707fbef12e46b3b148d096f83caaa9c8c5ce46abc4c3a2eda8c7a0&" alt="" width="820">
+<img title="" src="https://cdn.discordapp.com/attachments/1246337883623784468/1286705568374984734/a.png?ex=67794ef1&is=6777fd71&hm=432c27c3cbc4f8c9cfb7f42cca3a64644d20c413448294b745804f316916cf94&" alt="" width="820">
 
 <a id="todo"></a>
 
